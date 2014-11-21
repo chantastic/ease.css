@@ -1,0 +1,24 @@
+{
+  "name": "ease.css",
+  "version": "0.1.0",
+  "description": "transition-timing functions as css classes",
+  "main": "ease.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chantastic/ease.css.git"
+  },
+  "keywords": [
+    "css",
+    "ease",
+    "transition"
+  ],
+  "author": "Michael Chan <mijoch@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/ease.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/ease.css"
+}
