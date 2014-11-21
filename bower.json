@@ -1,0 +1,23 @@
+{
+  "name": "ease.css",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chantastic/ease.css",
+  "authors": [
+    "Michael Chan <mijoch@gmail.com>"
+  ],
+  "description": "transition-timing functions as css classes",
+  "main": "ease.css",
+  "keywords": [
+    "css",
+    "ease",
+    "transition"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
